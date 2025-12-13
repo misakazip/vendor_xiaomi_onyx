@@ -4407,6 +4407,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.afbrckt.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -4452,6 +4453,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.anchorsync.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -4497,6 +4499,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.demux.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -4542,6 +4545,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.derivedoffline.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -4588,6 +4592,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.frc.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -4633,6 +4638,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.fusion.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -4678,6 +4684,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.generic.sm8750.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -4723,6 +4730,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.generic.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -4768,6 +4776,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.gs.sm8750.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -4834,6 +4843,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.hdr.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -4879,6 +4889,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.mcreprocrt.sm8750.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -4924,6 +4935,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.mcreprocrt.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -4969,6 +4981,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.memcpy.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -5014,6 +5027,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.metadataserializer.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -5059,6 +5073,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.mfsr.sm8750.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -5104,6 +5119,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.mfsr.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -5149,6 +5165,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.ml.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -5194,6 +5211,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.mux.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -5239,6 +5257,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.offlinestatsregeneration.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -5287,6 +5306,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.qcfa.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -5332,6 +5352,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.raw2yuvhdr.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -5377,6 +5398,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.rawhdr.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -5422,6 +5444,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.realtimeserializer.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -5467,6 +5490,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.rt.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -5512,6 +5536,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.rtmcx.sm8750.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -5557,6 +5582,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.rtmcx.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -5602,6 +5628,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.rtpostproc.sm8750.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -5647,6 +5674,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.rtpostproc.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -5692,6 +5720,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.serializer.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -5737,6 +5766,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.statsregeneration.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -5782,6 +5812,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.stub.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -5827,6 +5858,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qti.feature2.swmf.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -6180,6 +6212,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qualcomm.mcx.policy.mfl.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -6225,6 +6258,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qualcomm.mcx.policy.sfl.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -6413,6 +6447,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/com.qualcomm.qti.mcx.usecase.extension.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -7867,6 +7902,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/hw/com.qti.chi.offline.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libc++",
                 "libcutils",
                 "liblog",
@@ -12293,6 +12329,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/libcamxcommonutils.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libutilscallstack",
                 "libcameraopt",
                 "libc++",
@@ -12810,6 +12847,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/libcamxsettingsmanager.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libcamxcommonutils",
                 "libcutils",
                 "libc++",
@@ -18820,6 +18858,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/libmicamera_adapter.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libcutils",
                 "libutils",
                 "liblog",
@@ -18945,6 +18984,7 @@ cc_prebuilt_library_shared {
                 "proprietary/vendor/lib64/libmicamera_hal_core.so",
             ],
             shared_libs: [
+                "libprocessgroup_shim",
                 "libcutils",
                 "libdmabufheap",
                 "libcamera_metadata",
@@ -24785,22 +24825,10 @@ cc_prebuilt_library_shared {
             srcs: [
                 "proprietary/vendor/lib64/libqtigefar.so",
             ],
-            shared_libs: [
-                "liblog",
-                "libcutils",
-                "libar-pal",
-                "android.media.audio.common.types-V3-ndk",
-                "android.hardware.audio.core-V2-ndk",
-                "libbase",
-                "libaudioplatformconverter.qti",
-                "libc++",
-                "libc",
-                "libm",
-                "libdl",
-            ],
         },
     },
     compile_multilib: "64",
+    check_elf_files: false,
     prefer: true,
     soc_specific: true,
 }
@@ -26326,24 +26354,6 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-    name: "libsn100u_fw",
-    owner: "xiaomi",
-    strip: {
-        none: true,
-    },
-    target: {
-        android_arm64: {
-            srcs: [
-                "proprietary/vendor/lib64/libsn100u_fw.so",
-            ],
-        },
-    },
-    compile_multilib: "64",
-    prefer: true,
-    soc_specific: true,
-}
-
-cc_prebuilt_library_shared {
     name: "libsn220u_fw",
     owner: "xiaomi",
     strip: {
@@ -26353,24 +26363,6 @@ cc_prebuilt_library_shared {
         android_arm64: {
             srcs: [
                 "proprietary/vendor/lib64/libsn220u_fw.so",
-            ],
-        },
-    },
-    compile_multilib: "64",
-    prefer: true,
-    soc_specific: true,
-}
-
-cc_prebuilt_library_shared {
-    name: "libsn300u_fw",
-    owner: "xiaomi",
-    strip: {
-        none: true,
-    },
-    target: {
-        android_arm64: {
-            srcs: [
-                "proprietary/vendor/lib64/libsn300u_fw.so",
             ],
         },
     },
@@ -26915,38 +26907,6 @@ cc_prebuilt_library_shared {
                 "libbinder",
                 "libtinyxml2",
                 "libpowercore",
-                "libc++",
-                "libc",
-                "libm",
-                "libdl",
-            ],
-        },
-    },
-    compile_multilib: "64",
-    prefer: true,
-    soc_specific: true,
-}
-
-cc_prebuilt_library_shared {
-    name: "libstnfc-auth",
-    owner: "xiaomi",
-    strip: {
-        none: true,
-    },
-    target: {
-        android_arm64: {
-            srcs: [
-                "proprietary/vendor/lib64/libstnfc-auth.so",
-            ],
-            shared_libs: [
-                "libbase",
-                "libcutils",
-                "libhardware",
-                "libhardware_legacy",
-                "libhidlbase",
-                "liblog",
-                "libutils",
-                "nfc_nci.st21nfc.st",
                 "libc++",
                 "libc",
                 "libm",
@@ -35730,31 +35690,6 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-    name: "vendor.qti.sla.service-V1-ndk",
-    owner: "xiaomi",
-    strip: {
-        none: true,
-    },
-    target: {
-        android_arm64: {
-            srcs: [
-                "proprietary/vendor/lib64/vendor.qti.sla.service-V1-ndk.so",
-            ],
-            shared_libs: [
-                "libbinder_ndk",
-                "libc++",
-                "libc",
-                "libm",
-                "libdl",
-            ],
-        },
-    },
-    compile_multilib: "64",
-    prefer: true,
-    soc_specific: true,
-}
-
-cc_prebuilt_library_shared {
     name: "vendor.qti.snapdragonServices-V1-ndk",
     owner: "xiaomi",
     strip: {
@@ -37372,7 +37307,6 @@ cc_prebuilt_library_shared {
                 "proprietary/system_ext/lib64/libwfdmmsrc_system.so",
             ],
             shared_libs: [
-                "libgui_shim",
                 "libbinder",
                 "libmmosal",
                 "liblog",
@@ -37419,8 +37353,6 @@ cc_prebuilt_library_shared {
                 "proprietary/system_ext/lib64/libwfdnative.so",
             ],
             shared_libs: [
-                "libinput_shim",
-                "libbinder_shim",
                 "libandroid_runtime",
                 "libui",
                 "libinput",
@@ -37432,6 +37364,7 @@ cc_prebuilt_library_shared {
                 "libhidlmemory",
                 "libbinder",
                 "libgui",
+                "android.hidl.base@1.0",
                 "android.hidl.token@1.0-utils",
                 "android.hardware.graphics.common@1.0",
                 "android.hardware.graphics.bufferqueue@1.0",
@@ -37609,8 +37542,6 @@ cc_prebuilt_library_shared {
                 "libmmosal",
                 "libutils",
                 "liblog",
-                "libcutils",
-                "libwfdconfigutils",
                 "libc++",
                 "libc",
                 "libm",
@@ -44232,69 +44163,6 @@ cc_prebuilt_library_shared {
 }
 
 cc_prebuilt_library_shared {
-    name: "nfc_nci.nqx.default.hw",
-    owner: "xiaomi",
-    strip: {
-        none: true,
-    },
-    target: {
-        android_arm64: {
-            srcs: [
-                "proprietary/odm/lib64/nfc_nci.nqx.default.hw.so",
-            ],
-            shared_libs: [
-                "libbase",
-                "libcutils",
-                "libhardware",
-                "libhardware_legacy",
-                "libhidlbase",
-                "liblog",
-                "libutils",
-                "libbinder_ndk",
-                "libc++",
-                "libc",
-                "libm",
-                "libdl",
-            ],
-        },
-    },
-    compile_multilib: "64",
-    prefer: true,
-    device_specific: true,
-}
-
-cc_prebuilt_library_shared {
-    name: "nfc_nci.st21nfc.st",
-    owner: "xiaomi",
-    strip: {
-        none: true,
-    },
-    target: {
-        android_arm64: {
-            srcs: [
-                "proprietary/odm/lib64/nfc_nci.st21nfc.st.so",
-            ],
-            shared_libs: [
-                "libbase",
-                "libcutils",
-                "libhardware",
-                "libhardware_legacy",
-                "libhidlbase",
-                "liblog",
-                "libutils",
-                "libc++",
-                "libc",
-                "libm",
-                "libdl",
-            ],
-        },
-    },
-    compile_multilib: "64",
-    prefer: true,
-    device_specific: true,
-}
-
-cc_prebuilt_library_shared {
     name: "sensors.touch.detect",
     owner: "xiaomi",
     strip: {
@@ -45695,15 +45563,6 @@ prebuilt_etc_xml {
     name: "dvs-aidl-service.xml",
     owner: "xiaomi",
     src: "proprietary/odm/etc/vintf/manifest/dvs-aidl-service.xml",
-    filename_from_src: true,
-    sub_dir: "vintf/manifest",
-    device_specific: true,
-}
-
-prebuilt_etc_xml {
-    name: "manifest_nxp_nfc.xml",
-    owner: "xiaomi",
-    src: "proprietary/odm/etc/vintf/manifest/manifest_nxp_nfc.xml",
     filename_from_src: true,
     sub_dir: "vintf/manifest",
     device_specific: true,
@@ -47232,42 +47091,6 @@ cc_prebuilt_binary {
 }
 
 cc_prebuilt_binary {
-    name: "vendor.qti.sla.service@2.0-service",
-    owner: "xiaomi",
-    target: {
-        android_arm64: {
-            srcs: [
-                "proprietary/vendor/bin/hw/vendor.qti.sla.service@2.0-service",
-            ],
-            shared_libs: [
-                "libcutils",
-                "libutils",
-                "liblog",
-                "libhwbinder",
-                "libhardware_legacy",
-                "libbase",
-                "libhardware",
-                "libhidlbase",
-                "libhidltransport",
-                "vendor.qti.sla.service-V1-ndk",
-                "libbinder_ndk",
-                "libc++",
-                "libc",
-                "libm",
-                "libdl",
-            ],
-        },
-    },
-    compile_multilib: "64",
-    strip: {
-        none: true,
-    },
-    prefer: true,
-    relative_install_path: "hw",
-    soc_specific: true,
-}
-
-cc_prebuilt_binary {
     name: "vendor.xiaomi.hardware.displayfeature_aidl-service",
     owner: "xiaomi",
     target: {
@@ -47737,32 +47560,6 @@ cc_prebuilt_binary {
 }
 
 cc_prebuilt_binary {
-    name: "nqnfcinfo",
-    owner: "xiaomi",
-    target: {
-        android_arm64: {
-            srcs: [
-                "proprietary/vendor/bin/nqnfcinfo",
-            ],
-            shared_libs: [
-                "libcutils",
-                "liblog",
-                "libc++",
-                "libc",
-                "libm",
-                "libdl",
-            ],
-        },
-    },
-    compile_multilib: "64",
-    strip: {
-        none: true,
-    },
-    prefer: true,
-    soc_specific: true,
-}
-
-cc_prebuilt_binary {
     name: "nv_mac",
     owner: "xiaomi",
     target: {
@@ -47868,36 +47665,6 @@ cc_prebuilt_binary {
                 "libqmi_csi",
                 "libmdmdetect",
                 "libperipheral_client",
-                "libc++",
-                "libc",
-                "libm",
-                "libdl",
-            ],
-        },
-    },
-    compile_multilib: "64",
-    strip: {
-        none: true,
-    },
-    prefer: true,
-    soc_specific: true,
-}
-
-cc_prebuilt_binary {
-    name: "pnscr",
-    owner: "xiaomi",
-    target: {
-        android_arm64: {
-            srcs: [
-                "proprietary/vendor/bin/pnscr",
-            ],
-            shared_libs: [
-                "libbase",
-                "libcutils",
-                "libhardware",
-                "liblog",
-                "libutils",
-                "libhardware_legacy",
                 "libc++",
                 "libc",
                 "libm",
@@ -48747,38 +48514,6 @@ cc_prebuilt_binary {
 }
 
 cc_prebuilt_binary {
-    name: "slad",
-    owner: "xiaomi",
-    target: {
-        android_arm64: {
-            srcs: [
-                "proprietary/vendor/bin/slad",
-            ],
-            shared_libs: [
-                "libbinder",
-                "libcrypto",
-                "libcutils",
-                "liblog",
-                "libnetutils",
-                "libsysutils",
-                "libbase",
-                "libutils",
-                "libc++",
-                "libc",
-                "libm",
-                "libdl",
-            ],
-        },
-    },
-    compile_multilib: "64",
-    strip: {
-        none: true,
-    },
-    prefer: true,
-    soc_specific: true,
-}
-
-cc_prebuilt_binary {
     name: "slim_daemon",
     owner: "xiaomi",
     target: {
@@ -49509,39 +49244,6 @@ cc_prebuilt_binary {
 }
 
 cc_prebuilt_binary {
-    name: "android.hardware.nqnfc-service.nxp",
-    owner: "xiaomi",
-    target: {
-        android_arm64: {
-            srcs: [
-                "proprietary/odm/bin/hw/android.hardware.nqnfc-service.nxp",
-            ],
-            shared_libs: [
-                "nfc_nci.nqx.default.hw",
-                "libbase",
-                "liblog",
-                "libcutils",
-                "libutils",
-                "libhidlbase",
-                "libbinder_ndk",
-                "libhardware",
-                "libc++",
-                "libc",
-                "libm",
-                "libdl",
-            ],
-        },
-    },
-    compile_multilib: "64",
-    strip: {
-        none: true,
-    },
-    prefer: true,
-    relative_install_path: "hw",
-    device_specific: true,
-}
-
-cc_prebuilt_binary {
     name: "android.hardware.security.keymint-service.strongbox-nxp",
     owner: "xiaomi",
     target: {
@@ -49901,4 +49603,42 @@ install_symlink {
     soc_specific: true,
     installed_location: "lib64/soundfx/libmisoundfx_aidl.so",
     symlink_target: "/vendor/lib64/libmisoundfx_aidl_ext.so",
+}
+
+filegroup {
+    name: "proprietary_rildb_config_sql_files",
+    srcs: [
+        "proprietary/vendor/etc/qcril_database/upgrade/config/0006.0_config.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/config/0007.0_config.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/config/0008.0_config.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/config/0009.0_config.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/config/0010.0_config.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/config/0011.0_config.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/config/0012.0_config.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/config/0013.0_config.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/config/0014.0_config.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/config/0015.0_config.sql",
+    ],
+}
+
+filegroup {
+    name: "proprietary_rildb_other_sql_files",
+    srcs: [
+        "proprietary/vendor/etc/qcril_database/upgrade/other/0000_initial_qcrilnr.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/other/0001_version_intro_qcrilnr.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/other/0002_version_add_wps_config_qcrilnr.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/other/0003_version_update_wps_config_qcrilnr.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/other/0004_version_update_ecc_table_qcrilnr.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/other/0005_version_update_ecc_table_qcrilnr.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/other/0006_version_change_property_table_qcrilnr.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/other/0007_version_update_ecc_table_qcrilnr.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/other/0008_version_update_ecc_table.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/other/0009_version_update_ecc_table.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/other/0010_version_update_ecc_table.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/other/0011_version_update_ecc_table.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/other/0012_version_update_ecc_table.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/other/0013_version_update_ecc_table.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/other/0014_version_update_modules.sql",
+        "proprietary/vendor/etc/qcril_database/upgrade/other/0015_version_add_iccid_clir_pref_table.sql",
+    ],
 }
